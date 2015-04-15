@@ -1,5 +1,6 @@
 # Mansory Social Media Box
 An awesome social media box with mansory layout contaning all the leading social media websites.
+Demo: http://codepen.io/anon/pen/pvMOam
 
 # Requirments
 This social media box requires Font Awesome to work properly.
